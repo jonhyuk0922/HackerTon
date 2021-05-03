@@ -3,8 +3,8 @@
 
 * 목표 : 꾸준히 하기.
 
-1주차 : kaggle 튜토리얼 (타이타닉) 
+1주차 : [kaggle 튜토리얼 (타이타닉](Titanic_Competition_Kaggle.ipynb)
 -> null 값들만 다 채워서 랜덤포레스트 써서 학습시켰다. (77점) 
 
-2주차 : 타이타닉 EDA to prediction(DieTinic) 커널 필사 
+2주차 : [타이타닉 EDA to prediction(DieTanic) 커널 필사](../master/eda-to-prediction-dietanic-jonghyuk.ipynb)
 
