@@ -9,3 +9,7 @@
 2주차 : [타이타닉 EDA to prediction(DieTanic) 커널 필사](../master/eda-to-prediction-dietanic-jonghyuk%20_4d.ipynb)
 
 3주차 : [타이타닉 EDA to prediction(DieTanic) 커널 필사 2](eda-to-prediction-dietanic-jonghyuk%20_5d.ipynb)
+
+4주차 : [타이타닉 EDA to prediction(DieTanic) 커널 필사 3](eda-to-prediction-dietanic-jonghyuk%20_6d.ipynb)
+
+다음은 포르투 공부!
