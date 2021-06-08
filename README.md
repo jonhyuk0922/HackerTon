@@ -13,7 +13,9 @@
 
 3주차 : [타이타닉 EDA to prediction(DieTanic) 커널 필사 2](eda-to-prediction-dietanic-jonghyuk%20_5d.ipynb)
 
-4주차 : [타이타닉 EDA to prediction(DieTanic) 커널 필사 3](eda-to-prediction-dietanic-jonghyuk%20_6d.ipynb)
+4주차 : [타이타닉 EDA to prediction(DieTanic) 커널 필사 3](eda-to-prediction-dietanic-jonghyuk%20_1ipynb.ipynb) 
+
+-- 1회독 완료 --
 
 <두번째 케글> : 포르투 보험료 청구 예측!
 
@@ -28,7 +30,11 @@
 * 목표 : 케글이나 이전 대회에서 배운 내용 실제 대회에 적용해보기
 
 <첫번째 데이콘> : 제주 버스 시간 예측 (연습)
+- [필사 : LinearRegression , RandomForest , lgbm ](DACON_BUS.ipynb)
+
 
 <두번째 데이콘> : 음성 분류 (실제 대회)
+- 음성 파일 대용량 처리 못하는 중
 
 <세번째 데이콘> : 구내 식당 수요 예측 (실제 대회)
+- [베이스라인 : RandomForest](,/%5B베이스라인%5D_데이콘_베이스라인_코드_(랜덤포레스트).ipynb)
