@@ -5,10 +5,12 @@
 
 1. DeepFM 논문 리뷰 및 파이프라인 구현 
 논문 리뷰: https://greeksharifa.github.io/machine_learning/2020/04/07/DeepFM/
+
 코드 : https://github.com/ChenglongChen/tensorflow-DeepFM
 - 전처리과정이 필요없다고 한다. 
 
 2. python xlearn 라이브러리  -> https://xlearn-doc.readthedocs.io/en/latest/python_api/
+
 * 번개장터 기술블로그 참고 : https://www.kgsbdata.com/post/ctr%EC%9D%84-%EC%98%88%EC%B8%A1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-3-factorization-machine
 - 가성비가 좋은 모델이라고 함.
 
