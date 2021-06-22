@@ -8,6 +8,9 @@
 
 코드 : https://github.com/ChenglongChen/tensorflow-DeepFM
 - 전처리과정이 필요없다고 한다. 
+- 이걸 이해하려면 FM도 이해해야한다. FM 개념 및 영화 추천 필사 해보기
+- 메모리 문제 있음, 카테고리컬 컬럼은 값이 천이 넘어가면 메모리 156기가에서도 안돌아간다. 
+
 
 2. python xlearn 라이브러리  -> https://xlearn-doc.readthedocs.io/en/latest/python_api/
 
@@ -18,3 +21,8 @@
 - 기존에 버스 도착 시간 예측 때 사용한 코드 사용 
 
 4. 베이스라인 코드인 LightGBM 모델 공부 
+5. 
+- LGBM 성능 높이는 법 
+6) Aggregation , 특정 변수의 mean , std , max, min 값 등을 변수로 추가
+7) 카테고리컬 변수 지정
+8) 편향된 테스트 셋에 보정?
