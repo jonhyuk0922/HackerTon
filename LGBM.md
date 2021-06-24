@@ -28,6 +28,7 @@ LightGBM
 
 
 <h4>Reference</h4>
+https://bit.ly/2LjmKGR
 https://greatjoy.tistory.com/72
 https://databoom.tistory.com/entry/LightGBM%EC%84%A4%EB%AA%85
 https://ariz1623.tistory.com/209
