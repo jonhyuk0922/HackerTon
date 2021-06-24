@@ -5,7 +5,7 @@ LightGBM
 - 목적 : 모델의 장단점 , 하이퍼 파라미터 , 사용법 및 코드 예제, 구동원리 이해 , 
 
 <h3>0.LGBM 이란?</h3>
-![스크린샷 2021-06-24 오후 11 01 50](https://user-images.githubusercontent.com/76195885/123276472-2a588680-d540-11eb-9d4c-2a55dddaacfa.png)
+[스크린샷 2021-06-24 오후 11 01 50](https://user-images.githubusercontent.com/76195885/123276472-2a588680-d540-11eb-9d4c-2a55dddaacfa.png)
 
 - 트리 기반의 학습 알고리즘인 gradient boosting 방식의 프레임 워크다. 
 - 같은 부스팅 방식인 XG Boost 방식(Level-wise tree growth)과 달리,
@@ -22,7 +22,7 @@ LightGBM
 
 
 <h3>2. 하이퍼 파라미터</h3>
-![스크린샷 2021-06-24 오후 10 58 23](https://user-images.githubusercontent.com/76195885/123275905-aef6d500-d53f-11eb-921a-db7a8756ba4e.png)
+[스크린샷 2021-06-24 오후 10 58 23](https://user-images.githubusercontent.com/76195885/123275905-aef6d500-d53f-11eb-921a-db7a8756ba4e.png)
 
 
 
